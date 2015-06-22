@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Clone WPAI posts to WPML
-Plugin URI: http://www.wordpresshelsinki.fi/
+Plugin URI: http://www.devjonni.fi/
 Description: This plugin clones new WP All Imported posts to all enabled WPML languages.
 Version: 0.1
 Author: Jonni Tammisto
